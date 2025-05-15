@@ -107,6 +107,8 @@ server_socket.close()
 ```
 
 ##OUTPUT:
+
+
 ![image](https://github.com/user-attachments/assets/fad8063d-3b09-41d1-a7b5-0e57793c83bf)
 
 
